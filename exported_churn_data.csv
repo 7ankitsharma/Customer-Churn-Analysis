@@ -1,0 +1,102 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count
+0002-ORFBO,2021-03-15,Refferal,2025-03-15,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,1982-04-12,,,,
+0003-MKNFE,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,1995-11-23,2024-08-28,Y,10.0,2.0
+0004-TLHLJ,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,1978-02-15,,,,
+0011-IGKFF,2019-05-10,Paid,2025-05-10,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,2001-08-30,,,,
+0013-EXCHZ,2023-01-05,Refferal,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,1990-05-05,2024-01-20,Y,20.0,1.0
+0013-MHZWF,2022-06-18,Paid,2025-06-18,Standard,Annual,,,17.99,720,22,0,durga,Nepal,Delhi,Female,1988-12-10,2025-03-18,N,90.0,1.0
+0013-SMEOE,2021-09-30,Refferal,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,1976-09-21,2024-11-01,N,30.0,1.0
+0014-BMAQU,2020-02-14,Organic,2025-02-14,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,1999-03-14,,,,
+0015-UOCOJ,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,13.99,240,34,0,maya,Nepal,Kathmandu,Female,1985-07-07,,,,
+0016-QLJIS,2022-04-03,Organic,2025-04-03,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,1993-10-29,,,,
+0017-DINOC,2021-12-01,Organic,2025-12-01,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Male,1997-01-22,,,,
+0017-IUDMW,2023-03-17,Refferal,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,1981-06-18,2024-04-10,Y,25.0,1.0
+0018-NYROU,2020-10-09,Organic,2025-10-09,Standard,Annual,,,13.99,980,19,0,chitra,Nepal,Telangana,Female,2004-12-01,,,,
+0019-EFAEP,2022-08-25,Refferal,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,1992-04-25,2024-09-27,Y,30.0,1.0
+0019-GFNTW,2019-11-11,Paid,2025-11-11,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Male,1979-11-11,,,,
+0020-INWCK,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,1986-02-28,,,,
+0020-JDNXP,2022-01-19,Organic,2024-01-19,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,1994-08-19,,,,
+0021-IKXGC,2021-07-07,Paid,2025-07-07,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,2000-09-02,,,,
+0022-TCJCI,2023-09-14,Refferal,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,1983-12-30,2024-09-14,N,90.0,2.0
+0023-HGHWL,2020-06-23,Organic,2025-06-23,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Male,1991-05-14,,,,
+0023-UYUPN,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Female,1977-10-06,,,,
+0038-AHFTR,2020-03-23,Organic,2024-03-23,Basic,Monthly,,,7.59,464,29,0,komal,Nepal,Delhi,Male,1971-05-04,,,,
+0044-SIEYI,2020-06-25,Organic,2024-06-25,Basic,Annual,,,7.36,478,11,0,kabir,India,Kerala,Male,1985-06-06,,,,
+0070-PSBFH,2022-07-25,Paid,2025-07-25,Standard,Monthly,,,14.77,528,90,0,kabir,India,Telangana,Female,1982-06-21,2024-06-16,N,53.0,1.0
+0095-FITBV,2022-03-07,Refferal,2026-03-07,Premium,Annual,2023-10-30,Not enough content,24.27,460,83,1,sonal,Nepal,West Bengal,Male,1972-12-20,,,,
+0057-TLPJZ,2023-10-30,Organic,2027-10-30,Basic,Monthly,2026-02-17,Found free alternative,7.47,210,77,1,yash,Nepal,Pokhara,Male,2003-11-26,,,,
+0025-RCXTT,2019-01-07,Organic,2020-01-07,Premium,Annual,2019-11-22,Poor streaming quality,24.8,230,81,1,suresh,India,Nagaland,Female,1977-02-04,,,,
+0093-YXXPM,2023-12-04,Refferal,2024-12-04,Premium,Monthly,2024-04-06,Not enough content,24.65,101,98,1,siddharth,India,Punjab,Female,1972-08-07,,,,
+0045-GWLFO,2021-06-16,Refferal,2022-06-16,Premium,Annual,2021-12-10,Poor streaming quality,22.23,100,44,1,deepak,India,Uttar Pradesh,Female,2000-02-17,,,,
+0031-FXWBG,2022-03-26,Paid,2024-03-26,Standard,Monthly,2023-08-09,No longer needed,17.03,268,13,1,ashok,Nepal,Kathmandu,Male,1975-12-08,,,,
+0030-RZCKI,2021-07-07,Refferal,2023-07-07,Basic,Annual,,,7.83,403,10,0,bhavna,India,Nagaland,Female,1978-07-14,,,,
+0030-QOACT,2023-11-06,Refferal,2027-11-06,Standard,Monthly,,,14.88,314,34,0,niharika,Nepal,Meghalaya,Female,1991-08-05,2024-06-07,Y,42.0,2.0
+0030-PNWEY,2021-04-06,Organic,2022-04-06,Basic,Monthly,,,8.77,453,54,0,kabir,India,Meghalaya,Male,1973-01-18,2024-07-28,N,35.0,1.0
+0074-DQLYY,2021-11-02,Paid,2023-11-02,Standard,Monthly,,,17.39,755,48,0,aarav,India,Assam,Male,1994-02-12,,,,
+0062-PZRAV,2023-03-01,Paid,2025-03-01,Premium,Monthly,2024-01-25,Found free alternative,22.4,234,92,1,zara,India,Nagaland,Male,1975-03-07,,,,
+0030-CLHAU,2022-12-16,Refferal,2024-12-16,Standard,Monthly,2024-02-27,Not enough content,13.37,184,70,1,arvind,India,Tamil Nadu,Female,1989-10-27,2024-02-10,N,31.0,1.0
+0037-JOWZT,2020-01-03,Paid,2022-01-03,Premium,Annual,,,25.0,1716,35,0,rekha,India,Telangana,Female,1988-06-30,2025-04-26,Y,30.0,1.0
+0068-HUFAF,2021-03-29,Refferal,2024-03-29,Premium,Annual,,,21.57,1206,23,0,suresh,India,Tamil Nadu,Male,1985-10-02,2024-12-19,N,60.0,2.0
+0056-BLNUR,2022-06-30,Organic,2025-06-30,Standard,Monthly,2023-10-15,Forgot to cancel trial,17.49,265,86,1,vikas,India,Uttar Pradesh,Female,1973-02-20,2025-11-24,Y,83.0,2.0
+0050-LPRML,2020-08-04,Refferal,2022-08-04,Premium,Annual,2021-04-24,Not enough content,25.08,181,87,1,kavya,Nepal,Pokhara,Female,1977-08-12,2025-10-06,Y,94.0,2.0
+0087-KDRXW,2021-08-09,Refferal,2025-08-09,Basic,Monthly,2024-11-25,No longer needed,8.36,364,86,1,preeti,Nepal,Nagaland,Female,1977-11-21,,,,
+0088-LXLEW,2021-09-19,Paid,2024-09-19,Premium,Monthly,,,23.19,1028,31,0,paresh,India,Tamil Nadu,Female,1982-06-10,,,,
+0041-DJDFK,2021-03-08,Organic,2022-03-08,Premium,Monthly,,,22.89,1164,46,0,suresh,Nepal,Assam,Male,1979-04-12,,,,
+0077-NTUXM,2022-10-01,Organic,2026-10-01,Premium,Annual,,,21.82,724,17,0,riya,India,Bihar,Male,1987-06-12,,,,
+0099-OAQDM,2020-10-31,Paid,2024-10-31,Standard,Annual,,,16.75,932,33,0,krishna,Nepal,Tamil Nadu,Male,1979-06-30,,,,
+0030-ZJQUQ,2019-11-09,Paid,2021-11-09,Basic,Monthly,,,9.0,644,60,0,anil,India,Maharashtra,Female,1970-11-30,2024-06-16,N,18.0,1.0
+0063-OXJYF,2023-10-08,Organic,2026-10-08,Premium,Monthly,,,24.9,509,69,0,neha,India,Telangana,Female,2004-08-26,,,,
+0067-AKMLJ,2022-08-25,Paid,2025-08-25,Standard,Annual,,,15.17,549,42,0,komal,India,Assam,Female,1977-11-25,2024-12-10,Y,68.0,2.0
+0047-MJGHP,2020-05-09,Paid,2022-05-09,Premium,Annual,2021-11-22,Found free alternative,23.77,452,89,1,preeti,India,Tamil Nadu,Male,1978-07-28,2025-02-18,Y,44.0,1.0
+0084-OIZOJ,2023-01-17,Refferal,2025-01-17,Basic,Annual,,,9.22,266,25,0,umesh,India,Tamil Nadu,Male,1980-05-05,,,,
+0091-PZVHJ,2022-02-07,Organic,2026-02-07,Standard,Monthly,,,17.33,721,14,0,zara,India,Maharashtra,Male,1972-01-16,,,,
+0080-IZGWC,2019-11-07,Refferal,2020-11-07,Basic,Annual,,,9.97,717,72,0,ishaan,India,Kerala,Male,1995-11-19,2025-04-06,N,43.0,2.0
+0050-QGCGO,2021-08-20,Refferal,2024-08-20,Standard,Monthly,2022-06-15,Forgot to cancel trial,14.43,137,90,1,ananya,Nepal,Maharashtra,Female,2000-12-03,,,,
+0049-LOQXV,2020-08-14,Paid,2024-08-14,Standard,Monthly,,,16.43,968,35,0,ishaan,India,Karnataka,Male,1996-09-10,2025-03-18,N,82.0,1.0
+0027-CZVOY,2022-08-27,Refferal,2026-08-27,Standard,Annual,,,17.97,607,82,0,anil,India,Tamil Nadu,Female,1991-02-08,,,,
+0065-RWISH,2020-10-24,Organic,2021-10-24,Basic,Annual,,,9.46,491,85,0,girish,India,Karnataka,Male,1984-02-10,,,,
+0087-QTFOY,2023-06-25,Paid,2027-06-25,Basic,Monthly,,,8.64,221,12,0,paresh,Nepal,Kathmandu,Male,1998-04-06,2025-10-25,Y,68.0,1.0
+0089-SKMML,2023-11-05,Paid,2026-11-05,Basic,Annual,,,8.01,153,1,0,dev,India,Kerala,Male,1992-10-19,,,,
+0086-WLMIT,2022-03-17,Paid,2026-03-17,Standard,Monthly,,,13.21,580,91,0,naresh,India,Assam,Female,2001-04-15,,,,
+0043-MANPW,2023-01-19,Organic,2024-01-19,Basic,Annual,,,9.9,273,61,0,bhavna,India,Assam,Male,1990-07-01,,,,
+0074-QWWWJ,2022-07-16,Refferal,2026-07-16,Premium,Annual,,,24.72,926,13,0,ramesh,Nepal,Kathmandu,Male,1973-01-26,2025-12-11,N,8.0,1.0
+0065-UHJDN,2023-11-19,Paid,2025-11-19,Standard,Monthly,,,17.55,317,30,0,reema,India,Meghalaya,Female,1973-07-17,2025-04-21,N,91.0,1.0
+0044-BYZHZ,2023-10-14,Refferal,2026-10-14,Standard,Monthly,2025-11-28,Forgot to cancel trial,14.9,336,74,1,sanjay,Nepal,Tamil Nadu,Male,1978-12-08,,,,
+0074-HORTB,2020-03-24,Organic,2022-03-24,Premium,Monthly,2020-07-02,Forgot to cancel trial,22.24,70,81,1,pooja,Nepal,Kathmandu,Female,1997-03-26,2024-05-14,Y,42.0,1.0
+0077-EDOZN,2023-03-09,Paid,2025-03-09,Standard,Monthly,,,17.8,520,97,0,jyoti,India,Tamil Nadu,Male,1991-08-13,,,,
+0095-JUANL,2022-10-14,Refferal,2025-10-14,Basic,Annual,2023-02-15,Found free alternative,8.85,38,79,1,pradeep,Nepal,Tamil Nadu,Female,1986-08-31,2024-11-07,N,19.0,2.0
+0054-XDLRT,2023-09-04,Paid,2026-09-04,Standard,Annual,,,13.15,315,28,0,usha,India,Bihar,Female,1999-05-19,,,,
+0036-ZJXQB,2022-08-07,Refferal,2024-08-07,Premium,Monthly,,,24.92,820,17,0,riya,India,Uttar Pradesh,Female,1974-02-10,,,,
+0094-FFWID,2020-05-28,Organic,2022-05-28,Basic,Monthly,,,9.59,628,2,0,komal,India,Maharashtra,Female,1975-10-31,,,,
+0026-EBTNT,2021-07-14,Organic,2024-07-14,Premium,Monthly,,,21.21,922,59,0,lakshmi,India,Assam,Male,1996-08-18,,,,
+0075-LCSLX,2022-07-20,Paid,2025-07-20,Premium,Annual,,,25.96,895,59,0,ramesh,India,Rajasthan,Female,1982-05-03,,,,
+0038-WQTSF,2021-05-01,Paid,2024-05-01,Premium,Monthly,,,23.12,1199,48,0,paresh,Nepal,Telangana,Male,1990-05-06,,,,
+0035-VCCTV,2020-12-25,Organic,2023-12-25,Premium,Annual,2021-06-09,Poor streaming quality,21.25,98,77,1,seema,India,Karnataka,Female,1975-06-26,,,,
+0037-JOCHF,2022-12-10,Paid,2024-12-10,Standard,Annual,2023-04-20,Not enough content,13.02,54,73,1,manish,India,Maharashtra,Male,1978-02-03,,,,
+0035-TFKIJ,2023-03-26,Organic,2027-03-26,Premium,Monthly,2026-10-19,Found free alternative,21.4,904,85,1,deepak,India,West Bengal,Male,1976-12-24,2024-12-19,N,19.0,1.0
+0099-MRBKP,2023-04-15,Paid,2027-04-15,Standard,Annual,2024-03-04,Technical issues,13.59,136,96,1,aarav,India,Uttar Pradesh,Female,2004-06-03,2024-03-14,N,10.0,1.0
+0026-LCILK,2020-10-27,Organic,2021-10-27,Basic,Annual,,,9.75,517,56,0,arvind,India,Bihar,Male,1988-03-03,,,,
+0091-CWTFU,2023-05-09,Organic,2025-05-09,Standard,Annual,,,17.78,439,31,0,ishaan,Nepal,Pokhara,Male,1992-11-16,2025-11-02,Y,27.0,1.0
+0083-TTLYO,2021-08-18,Paid,2024-08-18,Standard,Annual,2023-02-01,Found free alternative,15.95,246,65,1,arvind,India,West Bengal,Female,1989-09-23,2024-03-19,Y,83.0,1.0
+0073-MOUXL,2019-11-05,Refferal,2022-11-05,Basic,Annual,2021-10-26,Not enough content,9.42,205,92,1,sonal,India,Uttar Pradesh,Male,1991-05-03,,,,
+0080-NPJXK,2019-05-15,Organic,2022-05-15,Standard,Monthly,,,16.38,1250,33,0,sunil,India,West Bengal,Female,1999-01-14,,,,
+0043-IPDJZ,2020-09-26,Organic,2022-09-26,Premium,Annual,2022-05-18,Too expensive,24.95,487,86,1,sanjay,India,Kerala,Male,2001-10-18,,,,
+0070-AIYIT,2023-09-26,Organic,2025-09-26,Basic,Monthly,2024-05-09,Not enough content,8.0,59,77,1,isha,India,Telangana,Female,1973-06-18,,,,
+0045-SBJSZ,2020-09-25,Paid,2024-09-25,Standard,Monthly,,,16.38,1002,60,0,kiran,Nepal,Gujarat,Female,1993-12-15,,,,
+0077-ZVUDG,2023-10-10,Refferal,2026-10-10,Basic,Annual,,,9.28,181,58,0,vinod,Nepal,Kathmandu,Male,1974-08-08,,,,
+0052-VXYKK,2019-02-27,Organic,2021-02-27,Standard,Monthly,2020-08-23,Not enough content,16.24,307,18,1,dinesh,Nepal,Telangana,Male,1986-10-26,,,,
+0024-XAFDY,2020-05-01,Refferal,2024-05-01,Standard,Monthly,,,14.18,950,9,0,pooja,Nepal,Pokhara,Male,2004-10-25,,,,
+0026-QOSHA,2021-12-08,Organic,2022-12-08,Standard,Monthly,,,15.71,613,50,0,mahesh,Nepal,Telangana,Female,1999-10-21,2024-09-16,Y,50.0,1.0
+0068-GRCPT,2023-08-28,Organic,2025-08-28,Premium,Annual,2025-02-06,Switched to competitor,23.38,381,18,1,yash,India,Karnataka,Male,1985-03-09,2024-02-12,N,44.0,1.0
+0074-ZOGTE,2021-06-13,Paid,2023-06-13,Standard,Annual,,,14.69,700,64,0,mahesh,India,Karnataka,Male,1975-08-02,,,,
+0058-USCPV,2022-09-15,Paid,2026-09-15,Standard,Annual,,,16.0,527,22,0,usha,India,Gujarat,Male,1973-08-04,2025-09-21,N,40.0,1.0
+0033-RKNTE,2020-04-28,Paid,2021-04-28,Premium,Annual,2021-02-12,No longer needed,22.9,200,78,1,vihaan,India,Rajasthan,Male,1975-08-31,,,,
+0097-DJIHY,2019-08-30,Organic,2022-08-30,Standard,Annual,,,15.22,999,89,0,vihaan,India,Meghalaya,Male,1987-05-12,,,,
+0081-ESZVZ,2023-12-31,Organic,2025-12-31,Standard,Monthly,,,16.54,275,47,0,ramesh,India,Punjab,Male,1994-04-27,2024-08-30,N,8.0,1.0
+0094-OMZDW,2021-12-12,Organic,2024-12-12,Standard,Annual,2023-06-02,No longer needed,13.36,210,83,1,ishaan,Nepal,Gujarat,Female,2002-03-31,,,,
+0094-QEZLX,2020-10-22,Paid,2023-10-22,Premium,Monthly,,,25.73,1506,11,0,krishna,India,Nagaland,Male,1977-05-21,,,,
+0040-QPCQP,2020-11-22,Refferal,2023-11-22,Premium,Monthly,2022-08-29,Technical issues,21.4,460,84,1,neha,India,Rajasthan,Female,1998-01-05,2025-10-19,N,66.0,1.0
+0075-HBBLM,2023-02-12,Refferal,2024-02-12,Standard,Annual,,,16.79,450,41,0,kavya,India,West Bengal,Male,2002-03-23,,,,
+0042-CHJPG,2020-01-24,Organic,2023-01-24,Basic,Annual,2022-11-16,Technical issues,8.39,285,64,1,bhavna,India,Meghalaya,Male,2002-05-07,,,,
+0051-PBHPV,2021-06-01,Organic,2025-06-01,Basic,Annual,2021-11-12,Poor streaming quality,8.09,39,47,1,pradeep,Nepal,Kathmandu,Male,1970-05-14,2025-09-30,Y,21.0,2.0
+0074-JZOJD,2019-03-21,Paid,2021-03-21,Basic,Annual,,,8.55,705,78,0,pooja,Nepal,Pokhara,Male,1971-10-22,2025-09-23,N,80.0,2.0
